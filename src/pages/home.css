@@ -1,0 +1,18 @@
+section.home .sectionTitle{
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+}
+
+.viewMore{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.2rem;
+    transition: 0.3s;
+    display: flex;
+    justify-content: end;
+    
+}
+.viewMore:hover{
+    color: var(--secondary);
+}

@@ -1,0 +1,7 @@
+.gameCard .gameRating{
+    font-size: 1rem;
+    color: var(--secondary);
+}
+.gameCard .gameRating i{
+    margin-left: 2px;
+}

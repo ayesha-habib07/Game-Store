@@ -1,0 +1,20 @@
+{
+    "socialIcon" :[
+        {
+            "id" :1,
+            "icon": "bi-meta"
+        },
+        {
+            "id":2,
+            "icon" :"bi-twitter-x"
+        },
+        {
+            "id":3,
+            "icon":"bi-youtube"
+        },
+        {
+            "id":4,
+            "icon":"bi-share"
+        }
+    ]
+}
